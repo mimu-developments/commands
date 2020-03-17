@@ -1,0 +1,40 @@
+
+:root {
+    --sidebar-background: #2f3136;
+    --sidebar-border-color: transparent;
+    --sidebar-border-width: 0;
+    --blockquote-background: #2f3136;
+    --code-inline-background: #2f3136;
+    --code-theme-background: #2f3136;
+    --table-row-odd-background: #2f3136;
+    --table-cell-border-color: #202225;
+    --table-body-border-color: #202225;
+    --table-body-border-width: 1px;
+    --table-head-background: #393c43;
+
+    --sidebar-nav-link-background-color--active: #393c43;
+    --sidebar-nav-link-background-color--hover: #34373c;
+    --sidebar-nav-link-border-radius: 6px 0 0 6px;
+
+}
+
+.alert.callout {
+    background: #202225  !important;
+    color: #e7eaf1;
+}
+
+.alert.callout.tip {
+    border-color: #28a745 !important;
+}
+
+.alert.callout.info {
+    border-color: #17a2b8 !important;
+}
+
+.alert.callout.danger {
+    border-color: #dc3545 !important;
+}
+
+.alert.callout.warning {
+    border-color: #f0ad4e !important;
+}
