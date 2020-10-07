@@ -5,6 +5,6 @@
 * * [set](/commands/config/set.md)
 * * [hello](/commands/config/hello.md)
 * [Utility Commands](/commands/utility/)
-* [Pet Commands](/commands/pet/)
-* * [feed](/commands/pet/feed.md)
+* [Pet Commands](/commands/pets/)
+* * [feed](/commands/pets/feed.md)
 
